@@ -6,4 +6,8 @@ public class School {
 		System.out.println("School");
 	}
 
+	public void m1()
+	{
+		System.out.println("School info");
+	}
 }
